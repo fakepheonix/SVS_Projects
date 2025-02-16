@@ -1,5 +1,5 @@
 # SVS_Projects
-A public repository for my singing-voice-synthesis projects
+A public repository for my singing-voice-synthesis projects, most of the projects are *.svp files for the Synthesizer V Studio software.
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
